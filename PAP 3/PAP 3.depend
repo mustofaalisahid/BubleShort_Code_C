@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1458745512 source:e:\udinus\semester 2\alpro\pap 3\pustaka.c
+	"pustaka.h"
+
+1458739178 source:e:\udinus\semester 2\alpro\pap 3\main.c
+	"pustaka.h"
+
+1458396744 e:\udinus\semester 2\alpro\pap 3\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
